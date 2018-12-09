@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: qingqingcao
+Build-Jdk: 11.0.1
+Implementation-Title: ordinaryPeople
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.profile.berry
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ordinaryPeople
+Created-By: Maven Integration for Eclipse
+
